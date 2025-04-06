@@ -24,8 +24,8 @@
 ---
 
 ### 📂 Featured Projects
-- 🔋 [Battery Thermal Management System](https://github.com/YOUR_USERNAME/battery-thermal-management)
-- 🧠 [EEG Brain-Computer Interface](https://github.com/YOUR_USERNAME/eeg-brain-computer-interface)
+- 🔋 [Battery Thermal Management System](https://github.com/Sanjay4110/battery-thermal-management)
+- 🧠 [EEG Brain-Computer Interface](https://github.com/Sanjay4110/eeg-brain-computer-interface)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay4110&show_icons=true&theme=radical" />
 </p>
 
 ---
