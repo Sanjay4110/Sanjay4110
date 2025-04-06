@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm SANJAY R 👋</h1>
 
 <p align="center">
   👨‍🎓 B.E. Electrical & Electronics Engineering | 🎯 GSoC 2025 Aspirant | 💡 Open Source Enthusiast
