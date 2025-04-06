@@ -43,4 +43,4 @@
 ---
 
 ### 🤝 Let's Connect!
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/sanjay-r-b7a888250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) • 
+[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/sanjay-r-b7a888250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
