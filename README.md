@@ -1,37 +1,41 @@
 <h1 align="center">Hi there, I'm SANJAY R 👋</h1>
 
 <p align="center">
-  👨‍🎓 B.E. Electrical & Electronics Engineering 
+  👨‍🎓 B.E. Electrical & Electronics Engineering  
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on-
-  - **Customer Support Ticket System – Java          + MySQL (Ongoing)**  
-  - 🧠 **EEG-based Brain-Computer Interface**
-  - 🔋 **Battery Thermal Management System using Arduino**
-- 🌱 Learning Java, Data Structures , DBMS
-- 💬 Ask me about open source, signal processing, and Arduino
-- 📫 Reach me at: (sanjay.r.4110@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sanjay-r-b7a888250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🎯 Aspiring tech support engineer, preparing for SAP Labs Internship
+- 🔭 Currently working on:
+  - **Support Ticket Management System – Java + MySQL** *(SAP-style project)*
+  - 🧠 **BCI Cursor Control using EEG Signals**
+  - 🔋 **Battery Thermal Management System with Arduino**
+- 🌱 Learning Java, DBMS, DSA, and Cloud Fundamentals
+- 💬 Ask me about open source, signal processing, embedded systems
+- 📫 Reach me at: sanjay.r.4110@gmail.com or [LinkedIn](https://www.linkedin.com/in/sanjay-r-b7a888250)
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: C++, Java .
-- **Hardware**: Arduino, UCM4 EEG Headset, OpenBCI ,8051 Microcontroller
+- **Languages**: Java, C, C++
+- **Database**: MySQL, SQLite
+- **Hardware**: Arduino, UCM4 EEG Headset, OpenBCI, 8051 Microcontroller
 - **Tools**: Git, GitHub, Jupyter, VS Code, Linux
 
 ---
 
 ### 📂 Featured Projects
-- 🔋 [Battery Thermal Management System](https://github.com/Sanjay4110/battery-thermal-management)
-- 🧠 [EEG Brain-Computer Interface](https://github.com/Sanjay4110/eeg-brain-computer-interface)
 
----
+- 🧾 [Support Ticket Management System (Ongoing)](https://github.com/Sanjay4110/support-ticket-system-java)  
+  A Java + MySQL console app to simulate customer support operations with status tracking, RCA logging, and ticket management — tailored for SAP Labs-style support role.
 
-### 🌟 GSoC 2025
-- 🧪 [DeepChem: Educational Tutorials & Visualizations](https://github.com/YOUR_USERNAME/deepchem)
+- 🔋 [Battery Thermal Management System](https://github.com/Sanjay4110/battery-thermal-management)  
+  Designed and simulated a BMS with Arduino to manage battery temperatures and avoid thermal runaway.
+
+- 🧠 [EEG Brain-Computer Interface](https://github.com/Sanjay4110/eeg-brain-computer-interface)  
+  BCI system that maps EEG signals to cursor movement using MATLAB + signal processing algorithms.
 
 ---
 
@@ -42,5 +46,5 @@
 
 ---
 
-### 🤝 Let's Connect!
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/sanjay-r-b7a888250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+### 🤝 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/sanjay-r-b7a888250)
