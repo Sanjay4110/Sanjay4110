@@ -22,7 +22,7 @@
 - **Languages**: Java, C, C++
 - **Database**: MySQL, SQLite
 - **Hardware**: Arduino, UCM4 EEG Headset, OpenBCI, 8051 Microcontroller
-- **Tools**: Git, GitHub, Jupyter, VS Code, Linux
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
